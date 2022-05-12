@@ -6,7 +6,7 @@ The goal is to use python software on a dataset and create a data-based time-ser
 that provided statistical forecast for confirmed cases of COVID-19 all over the world.
 
 # Description of data
-he dataset used from a Kaggle dataset that was retrieved by the Centre for Systems Science
+The dataset used from a Kaggle dataset that was retrieved by the Centre for Systems Science
 and Engineering at Johns Hopkins University. It contained 8 features columns including deaths,
 recovered and confirmed cases of COVID-19 and 75 no. of observations from Jan to mid of April.
 10.3 Description of the model implementation and forecasting
@@ -31,15 +31,15 @@ prediction performance metrics. I took and plotted MAPE for my model evaluation 
 to understand.
 
 # Python Libs
-NumPy
-Pandas
-Scikit learn
-Matplotlib
-Seaborn
-Prophet 
+- NumPy
+- Pandas
+- Scikit learn
+- Matplotlib
+- Seaborn
+- Prophet 
 
 # Prerequisite
-Python >= v3.8
-Jupyter Notebook
-knowledge of Time Series Data
+- Python >= v3.8
+- Jupyter Notebook
+- knowledge of Time Series Data
 
